@@ -1,0 +1,24 @@
+
+.progress-bar {
+    background-color: whiteSmoke;
+    width: 450px;
+    height: 30px;
+    position: relative;
+    display: block;
+  }
+.progress-bar {
+    background-color: black;
+    border-radius: 20px;
+    display: inline-block;
+    text-indent:-999px;
+  }
+.oneline {
+   display: inline-block;
+  }
+.text{
+    padding-right: 20px;
+    font-style: oblique;
+    color: #1d809f;
+    font-weight: bolder;
+    font-size: 25px;
+}

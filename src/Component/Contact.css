@@ -1,0 +1,36 @@
+.contacts{
+    background-color: #1d809f;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    text-align: center;
+}
+.text{
+    margin:0px;
+    padding:40px;
+    margin-left:10px;
+}
+.row{
+    display: flex;
+    justify-content:space-evenly;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.row span{
+    background-color:#ffff;
+    width: 112px;
+    height: 112px;
+    display: block;
+    border-radius:50%;
+    color: #1d809f;
+    font-size: 36px;
+    line-height: 120px;
+}
+.row p{
+    text-align: center;
+    font-size: 18px;
+    color: antiquewhite;
+    font-style: oblique;
+}
+h2, h5{
+    color:antiquewhite
+}
